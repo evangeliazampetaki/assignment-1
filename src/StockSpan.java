@@ -1,3 +1,7 @@
+/*
+E V A N G E L I A    Z A M P E T A K I
+2013-2014
+*/
 import java.io.*;
 import java.util.Stack;
 public class StockSpan
